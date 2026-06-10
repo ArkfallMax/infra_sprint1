@@ -1,0 +1,7 @@
+
+IP: 185.245.35.206;
+name_taski: https://exntry.hopto.org/;
+name_kittygram: https://kittygramsp.mooo.com/;
+login: root;
+password: 16reBby4;
+
